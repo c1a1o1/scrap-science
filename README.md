@@ -2,13 +2,16 @@
 A bunch of Jupyter notebooks to scrap some of the most popular web platforms for scientific papers.
 
 
+## Setup
+* python environment
+* chrome driver
 
 
 
 ## MICCAI
 1. Get content pdfs from springer
-⋅⋅* 2014 and 2015 - get urls manually
-⋅⋅* 2016 and 2017 - pdfs have urls in them
+* 2014 and 2015 - get urls manually
+* 2016 and 2017 - pdfs have urls in them
 2. run getMiccaiUrls.py to get the urls in the pdf and dump them in a list sa a .npy file
 3. read these in scrap_miccai.ipynb and add to them thos from 2014 and 2015
 4. run scrap_miccai.ipynb
