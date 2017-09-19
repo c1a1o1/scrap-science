@@ -6,7 +6,9 @@ A bunch of Jupyter notebooks to scrap some of the most popular web platforms for
 * python environment
 * chrome driver
 
-
+## Pubmed
+1. search pubmed and download results as .csv
+2. use scrap_pubmed to combine all csv's, remove duplicates and scrap the remaining info.
 
 ## MICCAI
 1. Get content pdfs from springer
