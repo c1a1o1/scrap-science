@@ -6,6 +6,12 @@ A bunch of Jupyter notebooks to scrap some of the most popular web platforms for
 * python environment
 * chrome driver
 
+## bioRxiv
+1. Get all search result urls and their corresponding number of search results
+2. dump these into scrap_biorxiv.ipynb and get a clean duplicate free list of urls of individual papers
+
+
+
 ## Pubmed
 1. search pubmed and download results as .csv
 2. use scrap_pubmed to combine all csv's, remove duplicates and scrap the remaining info.
