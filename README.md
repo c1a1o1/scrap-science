@@ -5,6 +5,7 @@ A bunch of Jupyter notebooks to scrap some of the most popular web platforms for
 ## Setup
 * python environment
 * chrome driver
+* pdf2txt
 
 ## bioRxiv
 1. Get all search result urls and their corresponding number of search results
