@@ -1,0 +1,7 @@
+,,,,,,,
+,source,#,has pdf,has email,notes,clean?,how to link to pdf
+,miccai,246,0,228,looks good,no need,
+,pubmed,508,0,171,can get some pdfs+more emails,yes,
+,ieee,564,516,290,"attempted to get more emails, no luck",yes,doi
+,bioRxiv,,all,,,,use fullURL replace”--”
+,arxiv,,,,,,
