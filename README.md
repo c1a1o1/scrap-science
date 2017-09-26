@@ -34,3 +34,4 @@ A bunch of Jupyter notebooks to scrap some of the most popular web platforms for
 2. enter keywords and download .csv. Link to search will be in the first row.
 3. combine and clean the multiple downloaded .csv's using combine_Ieee.ipynb. This produces a single ieee.csv without duplicates.
 4. run scrap_ieee.ipynb. We first get as much pdf as we can, then we loop through the csv and convert pdf2txt to get emails. 
+5. manual cleanup
