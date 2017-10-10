@@ -8,10 +8,14 @@ A bunch of Jupyter notebooks to scrap some of the most popular web platforms for
 * pdf2txt
 
 ## arxiv
-
+1. get all search result urls and their corresponding number of search results
+2. dump these into scrap_arvix.ipynb and get a clean duplicate free list of urls of individual papers
+3. get all pdfs
+4. scarp data
+5. manula quality check
 
 ## bioRxiv
-1. Get all search result urls and their corresponding number of search results
+1. get all search result urls and their corresponding number of search results
 2. dump these into scrap_biorxiv.ipynb and get a clean duplicate free list of urls of individual papers
 3. now scarp - this step includes getting the pdf too.
 4. manual quality check
